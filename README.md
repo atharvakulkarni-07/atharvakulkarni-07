@@ -1,7 +1,7 @@
 # 💫 About Me:
 ➡️ Prefinal Year Student at IIT Madras 🎓<br>
 ➡️ Currently pursuing Aerospace Engineering ✈️🚀<br>
-➡️ I am passionate about Problem Solving 🧩, AI 🤖, and ML 📊<br>
+➡️ I am passionate about Problem Solving 🧩, Web Dev </>, AI 🤖, and ML 📊<br>
 ➡️ Currently learning exciting AI/ML models that solve real-world problems 🌍✨<br>
 ➡️ Continuous learning 📚 and improving my coding skills 💻<br>
 ➡️ Working on advanced algorithms 🔢 and data structures 🏗️<br>
