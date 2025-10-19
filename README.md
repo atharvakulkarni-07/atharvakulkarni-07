@@ -1,5 +1,3 @@
-Github Readme
-
 <div align="center">
 
 <!-- Animated Header -->
