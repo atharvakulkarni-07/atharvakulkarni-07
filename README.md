@@ -94,6 +94,15 @@ me = AtharvaKulkarni()
 
 </div>
 
+## 🏆 Open Source Contributions
+
+<div align="center">
+
+[![Holopin Badge](https://holopin.me/atharvakulkarni07)](https://holopin.io/@atharvakulkarni07)
+
+</div>
+
+
 ## 💡 Engineering Principles
 
 <div align="center">
